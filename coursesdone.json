@@ -1,0 +1,13 @@
+[
+  { "major": "Math", "courses": "131" },
+  { "major": "CS", "courses": "121" },
+  { "major": "Physics", "courses": "151" },
+  { "major": "Math", "courses": "132" },
+  { "major": "Math", "courses": "235" },
+  { "major": "CS", "courses": "187" },
+  { "major": "CS", "courses": "250" },
+  { "major": "Math", "courses": "233" },
+  { "major": "Math", "courses": "331" },
+  { "major": "CS", "courses": "220" },
+  { "major": "CS", "courses": "240" }
+]
