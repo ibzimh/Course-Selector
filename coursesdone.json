@@ -1,13 +1,16 @@
 [
-  { "major": "Math", "courses": "131" },
-  { "major": "CS", "courses": "121" },
-  { "major": "Physics", "courses": "151" },
-  { "major": "Math", "courses": "132" },
-  { "major": "Math", "courses": "235" },
-  { "major": "CS", "courses": "187" },
-  { "major": "CS", "courses": "250" },
-  { "major": "Math", "courses": "233" },
-  { "major": "Math", "courses": "331" },
-  { "major": "CS", "courses": "220" },
-  { "major": "CS", "courses": "240" }
+  { "field": "Math", "number": "131" },
+  { "field": "Math", "number": "132" },
+  { "field": "Math", "number": "235" },
+  { "field": "Math", "number": "233" },
+  { "field": "Math", "number": "331" },
+  { "field": "Stats", "number": "515" },
+  { "field": "CS", "number": "121" },
+  { "field": "CS", "number": "187" },
+  { "field": "CS", "number": "220" },
+  { "field": "CS", "number": "250" },
+  { "field": "CS", "number": "240" },
+  { "field": "CS", "number": "230" },
+  { "field": "CS", "number": "311" },
+  { "field": "Physics", "number": "151" }
 ]

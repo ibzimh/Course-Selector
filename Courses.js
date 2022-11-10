@@ -1,3 +1,30 @@
+// Important type signatures: 
+
+// doneCourseObject: {
+//   field: string,
+//   number: string,
+//   credits: number
+// }
+
+// courseObject: {
+//   field: string,
+//   number: string,
+//   plus: boolean
+// }
+
+// requirmentsObject: {
+//   major_num: number,
+//   requirments: string,
+//   credits: number,
+//   courses: [
+//       {
+//           field: string,
+//           number: string,
+//           plus: boolean
+//       }
+//   ]
+// }
+
 class FluentCourses {
   // constructor(data: object[])
   constructor(data, done) {
@@ -18,7 +45,7 @@ class FluentCourses {
   // exists(prop: string): FluentCourses
   // class with data where the property exists in each object
   exists(prop) {
-    return this.filter((obj) => prop in obj);
+    return this.filter(obj => prop in obj);
   }
 
   // filter<T>(func: T => boolean, prop: string): FluentCourses
@@ -29,56 +56,75 @@ class FluentCourses {
 
   // filter(num: number): FluentCourses
   // all requirments of the major 
-  major(bun) {
-    return this.filter((obj) => obj["major_num"] === num);
+  major(num) {
+    return this.filter(obj => obj["major_num"] === num);
+  }
+
+  // filter(num: number): FluentCourses
+  // all requirments of the major 
+  notMajor(num) {
+    return this.filter(obj => obj["major_num"] !== num);
   }
 
   // req(requirment: string): FluentCourses
   // all courses with this requirment 
   req(requirment) {
-    return this.apply((obj) => obj.requirments === requirment, "requirments");
+    return this.apply(obj => obj.requirments === requirment, "requirments");
   }
 
-  // something() {
-  //   return this.filter((obj) =>
-  //     obj.courses.filter((x) => x.charAt(x.length - 1) === "+")
-  //   );
-  // }
-
-  course(major, num) {
-    let course = {
-      field: major,
-      number: num,
-    };
-    return data.filter((obj) => obj.major === major && obj.courses.some((x) => x === num)).map((obj) => info)[0];
+  // course(field: string, num: string) => doneCourseObject
+  course(field, num) {
+    return {
+      field: field,
+      number: num
+    }
   }
 
-  courseDone(major, num) {
-    return new FluentCourses(this.data, this.done.concat([this.course(major, num)]));
+  // coursDone(field: string, num: string) => FluentCourses
+  courseDone(field, num) {
+    return new FluentCourses(this.data, this.done.concat([this.course(field, num)]));
   }
 
-  // getDone() {
-  //   return this.done;
-  // }
+  // getDone() => doneCourseObject[]
+  getDone() {
+    return this.done;
+  }
 
-  // getLeft() {
-  //   return this.filter((obj) => !obj.courses.some(c => this.checkDone(obj.major, c)));
-  // }
+  // doneRequirment(field: string, number: number, obj: requirmentsObject) => boolean
+  doneRequirment(field, number, obj) {
+    return obj["courses"].some(course => course["field"] === field && course["number"] === number);
+  }
 
-  // checkDone(major, num) {
-  //   return data.some((obj) => obj.major === major && obj.courses.some((x) => x === num));
-  // }
+  // getLeftRequirments(): FluentCourses
+  getLeftRequirments() {
+    return this.filter(obj => !this.done.some(done => this.doneRequirment(done.field, done.number, obj)) )
+  }
+
+  // flattenData(): FluentCourses
+  flattenData() {
+    let arr = []
+    this.data.map(obj => arr = arr.concat(obj["courses"]));
+    return new FluentCourses(arr, done);
+  }
+
+  // printData(): void
+  printData() {
+    this.data.forEach(x => console.log(x.field + " " + x.number));
+  }
 }
+
+// Example Run: 
 
 const data = require("./test2.json");
 const done = require("./coursesdone.json");
-const courses = new FluentCourses(data, done)
-.major(1)//.getLeft()
-// .data;  
+const course = new FluentCourses(data, done)
+.getLeftRequirments()
+.filter(obj => obj.courses.some(x => x["field"] === "Math" || x["field"] === "CS"))
+.flattenData().printData();
 
-// console.log(JSON.stringify(courses));
+// Saving Done Courses:
 
-// savedonein("thing.json");
+// savedonein("coursesdone.json");
 function savedonein(file) {
   let fs = require("fs");
   fs.writeFile(file, JSON.stringify(courses), function (err, result) {
