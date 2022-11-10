@@ -1,0 +1,79 @@
+Computer Science Major
+4 NA  CS 	    121
+4 NA  CS 	    187
+4 NA  CS 	    220
+4 NA  CS 	    230
+4 NA  CS 	    240
+4 NA  CS 	    250
+4 NA  CS 	    311
+3 NA  CS 	    300
+3 NA  CS 	    300
+3 NA  CS 	    300
+3 NA  CS 	    300
+3 NA  CS 	    400
+3 NA  CS 	    400
+3 NA  CS 	    400
+4 NA  CS 	    320, 326 
+3 NA  Writing	305
+4 NA  Math	131
+4 NA  Math	132
+3 NA  Math	235
+4 NA  Math	233
+4 NA  Physics 151
+4 NA  Physics	152
+
+Computing Math Major
+4 LDR Math	131
+4 LDR Math	132
+3 LDR Math	235
+4 LDR Math	233
+3 LDR Math 	370
+4 LDR CS      121
+3 IE  Math    455, 456, 475, S525
+4 DM  CS 	    187
+4 DM  CS      250
+3 UDR Math	411
+3 UDR Stats	515
+3 UDR Math	551
+4 UDR CS	    311
+3 UEC Math	331, 412, 456, 471, 545, 571, 552, 597U, S516
+3 UEC Math	331, 412, 456, 471, 545, 571, 552, 597U, S516
+3 UEC Math	513, CS575, CS501
+3 CE  CS   	300+
+
+Applied Math Major
+4 LDR Math	131
+4 LDR Math	132
+3 LDR Math	235
+4 LDR Math	233
+3 LDR Math 	370
+4 LDR CS      121
+4 LDR CS      250
+3 IE  Math    455, 456, 475, S525
+3 UDR Math 	397C, 421, 425, 523H, 524, 532H, 534H, 552, 597U, S516, S525.
+3 UDR Math 	331
+3 UDR Math 	545
+3 UDR Math 	551
+3 UDR Math 	456, 532H, 534H, 552
+3 UDE Math 	390+, S390+ or CS 
+3 UDE Math 	390+, S390+ or CS
+3 UDE Math 	390+, S390+ 
+
+Statistics & Data Sciences Major
+4 LDR Math	131
+4 LDR Math	132
+3 LDR Math	235
+4 LDR Math	233
+3 LDR Math 	370
+4 LDR CS      121
+4 LDR CS      250
+3 IE  Math    455,456,475,S525
+3 UDR Stat	515
+3 UDR Stat	516
+3 UDR Math	411 or 545
+3 UDR Math 	523H, 597U, S625, S535, S535+
+3 AS  Stat	525, 526
+3 UDE Math 	331, 390+, S390+ or CS 
+3 UDE Math 	331, 390+, S390+ or CS
+3 UDE Math 	331, 390+, S390+ 
+
