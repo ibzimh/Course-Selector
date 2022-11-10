@@ -1,0 +1,1139 @@
+[
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "121",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "187",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "220",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "230",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "240",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "250",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "311",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "300",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "300",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "300",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "300",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "320",
+                "plus": false
+            },
+            {
+                "field": "CS",
+                "number": "326",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Writing",
+                "number": "305",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "131",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "132",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "235",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "233",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Physics",
+                "number": "151",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 0,
+        "requirments": "NA",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Physics",
+                "number": "152",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "131",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "132",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "235",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "233",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "370",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "121",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "IE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "455",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "456",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "475",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "525",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "DM",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "187",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "DM",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "250",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "411",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Stats",
+                "number": "515",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "551",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "311",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UEC",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "412",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "456",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "471",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "545",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "571",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "552",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "597U",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "516",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UEC",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "412",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "456",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "471",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "545",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "571",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "552",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "597U",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "516",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "UEC",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "513",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "CS575",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "CS501",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 1,
+        "requirments": "CE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "300",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "131",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "132",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "235",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "233",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "370",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "121",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "250",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "IE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "455",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "456",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "475",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "525",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "397C",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "421",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "425",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "523H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "524",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "532H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "534H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "552",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "597U",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "516",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "525.",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "545",
+                "plus": false
+            }
+        ]
+    },
+    {   
+        "major_num": 2,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "551",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "456",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "532H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "534H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "552",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 2,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "131",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "132",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "235",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "233",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "370",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "121",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "LDR",
+        "credits": "4",
+        "courses": [
+            {
+                "field": "CS",
+                "number": "250",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "IE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "455456475S525",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Stat",
+                "number": "515",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Stat",
+                "number": "516",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "411",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "545",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDR",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "523H",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "597U",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "625",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "535",
+                "plus": false
+            },
+            {
+                "field": "Stats",
+                "number": "535",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "AS",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Stat",
+                "number": "525",
+                "plus": false
+            },
+            {
+                "field": "Stat",
+                "number": "526",
+                "plus": false
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "CS",
+                "number": "400",
+                "plus": true
+            }
+        ]
+    },
+    {
+        "major_num": 3,
+        "requirments": "UDE",
+        "credits": "3",
+        "courses": [
+            {
+                "field": "Math",
+                "number": "331",
+                "plus": false
+            },
+            {
+                "field": "Math",
+                "number": "390",
+                "plus": true
+            },
+            {
+                "field": "Stats",
+                "number": "390",
+                "plus": true
+            }
+        ]
+    }
+]
