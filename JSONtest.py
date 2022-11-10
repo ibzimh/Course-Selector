@@ -69,10 +69,6 @@ majorsList = map(majorsList, lambda m: filter( map(m, lambda str: str.split()), 
 dict = [] 
 c = -1
 
-# print(majorsList[2])
-# print(majorsList[2][2])
-
-
 for major in majorsList:
   c += 1
   for req in major:
@@ -109,7 +105,7 @@ for major in majorsList:
 
       if ( n == "CS" ):
         f = "CS"
-        n = "400"
+        n = "400" 
         p = True
 
       return {"field": f, "number":n, "plus": p}
@@ -118,7 +114,7 @@ for major in majorsList:
     majorobj = {
       "major_num": c,
       "requirments": req[1], 
-      "credits": req[0],
+      "credits": int(req[0]),
       "courses": course_object()
     }
     dict.append(majorobj)
