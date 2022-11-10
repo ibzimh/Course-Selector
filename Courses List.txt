@@ -67,7 +67,7 @@ Statistics & Data Sciences Major
 3 LDR Math 	370
 4 LDR CS      121
 4 LDR CS      250
-3 IE  Math    455,456,475,S525
+3 IE  Math    455, 456, 475, S525
 3 UDR Stat	515
 3 UDR Stat	516
 3 UDR Math	411, 545

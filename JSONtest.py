@@ -105,7 +105,7 @@ for major in majorsList:
 
       if ( n == "CS" ):
         f = "CS"
-        n = "300" 
+        n = "400" 
         p = True
 
       return {"field": f, "number":n, "plus": p}
@@ -114,7 +114,7 @@ for major in majorsList:
     majorobj = {
       "major_num": c,
       "requirments": req[1], 
-      "credits": req[0],
+      "credits": int(req[0]),
       "courses": course_object()
     }
     dict.append(majorobj)
