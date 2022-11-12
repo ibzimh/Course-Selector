@@ -6,3 +6,5 @@ Javascript code uses the course data to show things like:
 - Courses left to complete
 - Which course satisifies which requirments 
 - How do maximise overlap minimise courses to take between majors  
+
+Used by >3 UMass Amherst Students
