@@ -1,4 +1,4 @@
-# Courses
+# Courses 
 
 Python code parses text file with course information into a json file.
 Javascript code uses the course data to show things like:
